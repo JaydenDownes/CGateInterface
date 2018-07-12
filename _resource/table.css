@@ -1,0 +1,47 @@
+html {
+	margin:10;
+	padding:0;
+	text-align: center;
+	border:none;
+	}
+
+body {
+	margin:10;
+	padding:0;
+	text-align: center;
+	border:none;
+	}
+
+
+#container {
+	width: 800px;
+	height: 570px;
+	margin:  20px auto 0 auto;
+	text-align: left;
+	}
+
+#table_div	{
+	float:left;
+	position:relative;
+	width:600px;
+	border: none;
+	}
+	
+	
+p, a, table {
+	font : 14px/18px Arial, Helvetica, sans-serif;
+	color : black;
+	padding: 8px 8px 8px 0px;
+	margin:  0px 0px 0px 0px;
+	text-align : center;
+	}
+
+#menu	{
+	float: right;
+	position: fixed;
+	width: 100px;
+	border: 2px solid gray;
+	margin-left: 620px;
+	padding: 5px;
+	text-align: center;
+	}
